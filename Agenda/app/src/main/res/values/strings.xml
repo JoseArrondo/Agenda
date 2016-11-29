@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="titulo_nombre"> Nombre: </string>
+    <string name="personas">Personas:</string>
+    <string name="titulo_apellido"> Apellido: </string>
+    <string name="titulo_dni"> DNI: </string>
+    <string name="titulo_edad"> Edad: </string>
+    <string name="imageDesc"> Foto ID de la persona </string>
+</resources>
